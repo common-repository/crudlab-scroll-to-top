@@ -1,0 +1,81 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 9, 2015, 11:01:30 AM
+    Author     : Salman Mukhtar
+*/
+
+.plugins-wrap{
+    width: 80%;
+    margin:0 auto;
+}
+.col-left{
+    width: 75%;
+    padding: 0 2%;
+    background: #fafafa;
+    border: 1px solid #ccc;
+}
+.col-left .row{
+    padding: 10px 0;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.inline-block{
+    display: inline-block;
+}
+.clearfix{
+    clear: both;
+    display: block;
+    content: "";
+}
+.pull-left{
+    float: left;
+}
+.pull-right{
+    float: right;
+}
+.col-left .block{
+    margin-bottom: 10px;
+}
+.col-left .where{
+    margin-right: 15px;
+    width: 140px;
+}
+.col-left .shortcode{
+    color: #fff;
+    padding: 0 10px 3px;
+}
+.col-left label{
+    margin-right: 10px;
+}
+.col-left .form-control{
+    height: auto;
+}
+.col-left button{
+    cursor: pointer;
+}
+.bootstrap-switch-handle-off::before{
+
+}
+
+.plugins-for-you{
+    color: #000;
+}
+.plugins-for-you .download-btns{
+    margin: 15px 0;
+}
+.plugins-for-you .tile-title{
+    font-size: 18px;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+}
+.plugins-for-you .download-btns .btn{
+    font-size: 11px;
+    font-weight: bold;
+    letter-spacing: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
